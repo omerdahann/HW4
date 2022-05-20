@@ -1,0 +1,3 @@
+﻿  Q4A.c
+C:\Users\עומר דהאן\source\repos\Project36\Q4A.c(90,37): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+  Project36.vcxproj -> C:\Users\עומר דהאן\source\repos\Project36\Debug\Project36.exe
